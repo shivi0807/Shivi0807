@@ -36,9 +36,12 @@
 
 ---
 
-## 🌐 Connect with Me  
-- 📧 nagamandla08@gmail.com
-- 🔗 LinkedIn
+## 🌐 Connect with Me 
+
+📧 nagamandla08@gmail.com
+🔗 LinkedIn
+ 
+
 
 --- 
 
