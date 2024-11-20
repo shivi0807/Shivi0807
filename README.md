@@ -1,21 +1,44 @@
-As a graduate student in Computer Science with a passion for data science and information security, I bring a robust foundation in advanced programming, machine learning, and secure system design. I’m eager to transition my skills into offensive cybersecurity, delving into penetration testing, ethical hacking, and proactive threat mitigation.
 
-💼 Skills
+# 👋 Hi, I'm Shivani Nagamandla  
 
-	•	Programming & Development: Python, C, Java, SQL, JavaScript, ReactJS
-	•	Cybersecurity & Data Analysis: Information Security Assurance, Data Cleaning, Encryption Techniques, SQL
-	•	Machine Learning & Tools: TensorFlow, PyTorch, Power BI, Tableau
+🎓 Graduate student in Computer Science specializing in **Data Science**. Passionate about **data analysis**, **visualization**, and **machine learning**. Skilled in Python, SQL, Power BI, and TensorFlow, aiming to solve real-world challenges as a Data Analyst or Machine Learning Engineer.
 
-📂 Notable Projects
+## 🌟 About Me  
+- **Graduate Student** in Computer Science specializing in **Data Science** (University of Missouri - Kansas City).  
+- Passionate about **data-driven solutions**, **machine learning**, and **cybersecurity**.  
+- Exploring fields like **Information Security Assurance** and **Big Data Management**.
 
-	1.	Homomorphic Encryption-Enabled Facial Recognition
-	•	Ensured high facial recognition accuracy and data privacy compliance for safeguarding educational data.
-	2.	Fitness Data Analysis for Heart Disease Prediction
-	•	Utilized machine learning models like Random Forests to improve health screening and prediction accuracy.
-	3.	Lung Nodule Classification with Transfer Learning
-	•	Built a cancer detection system with CNN over KNN and SVM, optimizing computational efficiency and diagnostic accuracy.
+---
 
-🌟 Certifications & Achievements
+## 💼 Professional Experience  
+- **Data Analyst Intern, Eliptico IT Solutions**  
+  - Improved business metrics by **50%** through data analysis and **Power BI** dashboards.  
+  - Reduced data redundancy by **80%** using Python-based preprocessing.  
 
-	•	Programming for Everybody (Coursera)
-	•	Extensive experience in creating predictive models and implementing secure data practices.
+- **Data Science Intern, The Sparks Foundation**  
+  - Achieved **90% accuracy** in sentiment analysis using NLP techniques.  
+  - Deployed predictive maintenance models, improving reliability by **15%**.  
+
+---
+
+## 🛠️ Skills  
+- **Languages**: Python, C, Java, SQL, HTML, CSS, JavaScript  
+- **Libraries**: TensorFlow, PyTorch, OpenCV, Pandas, ReactJS  
+- **Databases**: MySQL, SQL Server, Hadoop, MongoDB  
+- **Tools**: Power BI, Tableau, Android Studio  
+
+---
+
+## 🚀 Featured Projects  
+- **Homomorphic Encryption for Facial Recognition**: Privacy-compliant, high-accuracy system for educational data security.  
+- **Fitness Data Analysis**: Improved heart disease prediction using PySpark and ML algorithms.  
+- **Lung Nodule Classification**: Advanced cancer detection with CNN and Transfer Learning.  
+
+---
+
+## 🌐 Connect with Me  
+- 📧 nagamandla08@gmail.com
+- 🔗 LinkedIn
+
+--- 
+
