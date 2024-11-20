@@ -40,7 +40,7 @@
 
 📧 nagamandla08@gmail.com
 
-🔗  LinkedIn: Shivani Nagamandla
+🔗  LinkedIn: https://www.linkedin.com/in/shivani-nagamandla-599418226
  
 
 
