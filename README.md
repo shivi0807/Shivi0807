@@ -39,7 +39,8 @@
 ## 🌐 Connect with Me 
 
 📧 nagamandla08@gmail.com
-🔗 LinkedIn
+
+🔗  LinkedIn: Shivani Nagamandla
  
 
 
