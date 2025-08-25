@@ -11,13 +11,7 @@
 ---
 
 ## 💼 Professional Experience  
-- **Data Analyst Intern, Eliptico IT Solutions**  
-  - Improved business metrics by **50%** through data analysis and **Power BI** dashboards.  
-  - Reduced data redundancy by **80%** using Python-based preprocessing.  
 
-- **Data Science Intern, The Sparks Foundation**  
-  - Achieved **90% accuracy** in sentiment analysis using NLP techniques.  
-  - Deployed predictive maintenance models, improving reliability by **15%**.  
 
 ---
 
